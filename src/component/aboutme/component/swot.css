@@ -1,0 +1,59 @@
+.swot {
+/*     width: 30vh; */
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    width: min-content;
+}
+
+.strength {
+    background-color: cyan;
+    opacity: 30%;
+
+}
+.strength:hover {
+    background-color: cyan;
+    opacity: 100%;
+
+}
+
+.weakness {
+    background-color: cyan;
+    opacity: 30%;
+}
+.weakness:hover {
+    background-color: cyan;
+    opacity: 100%;
+}
+
+.opportunity {
+    background-color: cyan;
+    opacity: 30%;
+}
+
+.opportunity:hover {
+    background-color: cyan;
+    opacity: 100%;
+}
+.threats {
+    background-color: cyan;
+    opacity: 30%;
+}
+.threats:hover {
+    background-color: cyan;
+    opacity: 100%;
+    
+}
+.background2 {
+    background-color: transparent;
+}
+
+.title-aboutme {
+    text-align: center;
+    color: white;
+    margin-top: 10vh;
+}
+
+.swot img {
+    width: 16.5rem;
+}

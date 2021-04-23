@@ -1,0 +1,27 @@
+.biodata{
+    color: white;
+}
+.title_biodata {
+    margin-bottom: 2rem;
+}
+.mainbiodata {
+    margin-bottom: 3rem;
+}
+.backgroundtext {
+    font-size: 5rem;
+    color: white;
+}
+.logo {
+    border-radius: 50px;
+}
+
+.detailText {
+    font-size: 10vw;
+}
+
+.mainTitle {
+    color: white;
+    text-align: center;
+    margin-top: 10vh;
+    margin-bottom: 4vh;
+}
